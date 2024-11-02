@@ -1,5 +1,5 @@
 Fiber type data sampled at baseline (pre), wk 10 (mid) and wk 22 (post).
-This repository contains two files:
+This repository contains three files:
 
 1: "immunohisto raw data:"
 
