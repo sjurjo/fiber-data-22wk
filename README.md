@@ -14,3 +14,6 @@ participant id
 group 
 sex
 
+3: "test-res-raw"
+
+Data file containing jump height, strength and body composition raw data
